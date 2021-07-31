@@ -1,3 +1,3 @@
-**Explore, analysis and visualize nobel prizes winners
+**Explore, analysis and visualize nobel prizes winners**
 
 
